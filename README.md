@@ -17,3 +17,7 @@
 * GPU Server : GTX Geforce 2080Ti(UNLV's Lab), Tesla K80(Google Colab)
 * model : RNN, GRU, BLSTM
 * Dataset : https://www.kaggle.com/alfrandom/protein-secondary-structure#2018-06-06-pdb-intersect-pisces.csv
+
+## Problem
+* 데이터의 중복성
+* 잘못된 코드를 모티브했기 때문에 모델의 신뢰성 하락
