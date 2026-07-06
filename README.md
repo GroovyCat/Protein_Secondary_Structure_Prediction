@@ -76,7 +76,7 @@
     </tr>
     <tr>
       <td align="center">김은선</td>
-      <td>데이터 전처리, 모델 학습 - B-LSTM, RNN, GRU</td>S
+      <td>데이터 전처리, 모델 학습 - B-LSTM, RNN, GRU</td>
     </tr>
     <tr>
       <td align="center">김은주</td>
