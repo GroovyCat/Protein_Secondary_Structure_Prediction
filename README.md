@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td align="center">개발 기간</td>
-      <td>2019년 2학기 - 학사 3년차</td>
+      <td>2019년 2학기 - 학사 3년차(UNLV 7주 연수)</td>
     </tr>
     <tr>
       <td align="center">개발 인원</td>
